@@ -264,7 +264,7 @@
     },
     "background": {
         "url": "https://i.imgur.com/QsX3zci.png",
-        "alpha": 0,
+        "alpha": 100.0,
         "color": "#1d1a0c"
     }
 }
